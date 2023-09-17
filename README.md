@@ -1,2 +1,2 @@
 # OpenAI-ChatGPT
-# I MAINTAIN AND KEEP TRACK OF MY OWN MADE CHATGPT
+# I Maintain and keep track of my own made OpenAI-ChatGPT
